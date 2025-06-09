@@ -11,15 +11,15 @@ height: auto;
 }
 
 header, footer {
-background-color: #acad94;
-color: #fff;
+background-color: #EAE0D0;
+color: #000000;
 padding: 50px;
 text-align: center;
 }
 
 header h1, header h2, header a {
 margin: 10px 0;
-color: #fff;
+color: #000000;
 text-decoration: none;}
 
 main, header {
@@ -55,7 +55,7 @@ margin: 0;
 
 ul.header-nav li a {
 text-decoration: none;
-color: #fff;
+color: #000000;
 }
 
 #weekly-blogs-card {
